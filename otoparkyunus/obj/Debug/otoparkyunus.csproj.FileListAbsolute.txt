@@ -1,0 +1,14 @@
+C:\Users\90505\source\repos\otoparkyunus\otoparkyunus\obj\Debug\otoparkyunus.csproj.AssemblyReference.cache
+C:\Users\90505\source\repos\otoparkyunus\otoparkyunus\obj\Debug\otoparkyunus.Anasayfa.resources
+C:\Users\90505\source\repos\otoparkyunus\otoparkyunus\obj\Debug\otoparkyunus.Araccikis.resources
+C:\Users\90505\source\repos\otoparkyunus\otoparkyunus\obj\Debug\otoparkyunus.Gecmis.resources
+C:\Users\90505\source\repos\otoparkyunus\otoparkyunus\obj\Debug\otoparkyunus.Kayit.resources
+C:\Users\90505\source\repos\otoparkyunus\otoparkyunus\obj\Debug\otoparkyunus.Konum.resources
+C:\Users\90505\source\repos\otoparkyunus\otoparkyunus\obj\Debug\otoparkyunus.Properties.Resources.resources
+C:\Users\90505\source\repos\otoparkyunus\otoparkyunus\obj\Debug\otoparkyunus.csproj.GenerateResource.cache
+C:\Users\90505\source\repos\otoparkyunus\otoparkyunus\obj\Debug\otoparkyunus.csproj.CoreCompileInputs.cache
+C:\Users\90505\source\repos\otoparkyunus\otoparkyunus\bin\Debug\otoparkyunus.exe.config
+C:\Users\90505\source\repos\otoparkyunus\otoparkyunus\bin\Debug\otoparkyunus.exe
+C:\Users\90505\source\repos\otoparkyunus\otoparkyunus\bin\Debug\otoparkyunus.pdb
+C:\Users\90505\source\repos\otoparkyunus\otoparkyunus\obj\Debug\otoparkyunus.exe
+C:\Users\90505\source\repos\otoparkyunus\otoparkyunus\obj\Debug\otoparkyunus.pdb
